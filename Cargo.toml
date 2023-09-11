@@ -7,7 +7,5 @@ members = [
     "pool/schema",
     "pool/examples/admin-controlled",
     "pool/examples/simple",
-]
-exclude = [
-    "dex",
+    "dex".
 ]
